@@ -1,0 +1,15 @@
+div {
+  font-size: 20px; }
+
+div {
+  color: red; }
+  div ol {
+    color: blue; }
+    div ol li {
+      color: green; }
+    div ol ul {
+      color: pink; }
+      div ol ul li {
+        color: #0006b6; }
+
+/*# sourceMappingURL=home1.css.map */

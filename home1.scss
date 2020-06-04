@@ -1,0 +1,19 @@
+%message
+{   font-size: 20px;
+}
+div
+{  @extend %message;
+   color: red;
+    ol
+    {   color: blue;
+        li
+        {   color: green
+        }
+        ul
+        {   color: pink;
+            li
+            {   color: #0006b6;
+            }
+        }
+    }
+}

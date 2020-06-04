@@ -1,0 +1,8 @@
+.div, h2
+{   border-style: solid;
+    border-collapse: collapse;
+}
+li::selection
+{   color: red;
+    background-color: yellow;
+}

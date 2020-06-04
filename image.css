@@ -1,0 +1,9 @@
+img
+{   border-radius: 12px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 40px;
+}

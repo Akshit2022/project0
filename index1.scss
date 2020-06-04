@@ -1,0 +1,16 @@
+$value: 20px;
+.grid
+{   background-color: green;
+    display: grid;
+    padding: $value;
+    grid-column-gap: $value;
+    grid-row-gap: $value;
+    grid-template-columns: auto auto;
+}
+.grid > div
+{   font-size: $value;
+    background-color: white;
+    padding: $value;
+    text-align: center;
+    font-style: oblique;
+}
